@@ -1,0 +1,10 @@
+{
+  "apps": [{
+    "serverURL": "http://localhost:1337/parse",
+    "appId": "appId",
+    "masterKey": "masterKey",
+	"javascriptKey": "javaScriptKey",
+	"port": "4041"
+  }],
+  "iconsFolder": "icons"
+}

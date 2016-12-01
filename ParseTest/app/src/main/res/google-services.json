@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "130679775152",
+    "firebase_url": "https://parsepushtest-148212.firebaseio.com",
+    "project_id": "parsepushtest-148212",
+    "storage_bucket": "parsepushtest-148212.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130679775152:android:f75a01289d937bf3",
+        "android_client_info": {
+          "package_name": "com.example.pavel.parsetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130679775152-7q7kjnu76mke0s4ckc1nek8aq11kpkrq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAk0et20iyANXSGXKntG5oXQLxGJx0yAtE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
